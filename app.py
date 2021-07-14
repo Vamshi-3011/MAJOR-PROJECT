@@ -10,5 +10,5 @@ if st.button('Predict'):
   if ans == 'Positive':
       st.success("Positive :)")
   elif ans == 'Negative':
-      st.error("Negative :(")
+      st.error(" Negative :(")
   
